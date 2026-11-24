@@ -62,69 +62,69 @@ The sector demonstrates a **moderately fragmented** competitive dynamic:
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated list of open-source synthesizers, Eurorack studios, and sound design instruments sorted in descending order by GitHub star count:
+Curated list of open-source synthesizers, Eurorack studios, and sound design instruments sorted in descending order by GitHub Stars_Count:
 
-- 🌐 **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
+- 🌐 **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub_Stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
   A Web Audio framework for making interactive music, generative synths, and web-native sound design in the browser.
 
-- 🎛️ **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
+- 🎛️ **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub_Stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
   Open-source software modular synthesizer and live-patching sound design DAW built with visual patch cables and node-based signal routing.
 
-- 🔌 **[VCV Rack](https://github.com/VCVRack/Rack)** [![GitHub stars](https://img.shields.io/github/stars/VCVRack/Rack?style=social&color=white)](https://github.com/VCVRack/Rack/stargazers)  
+- 🔌 **[VCV Rack](https://github.com/VCVRack/Rack)** [![GitHub_Stars](https://img.shields.io/github/stars/VCVRack/Rack?style=social&color=white)](https://github.com/VCVRack/Rack/stargazers)  
   The virtual Eurorack studio environment enabling open-source hardware-accurate modular synthesis, CV routing, and custom module development.
 
-- 🌊 **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
+- 🌊 **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub_Stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
   Flagship open-source hybrid synthesizer (VST3/CLAP/LV2/Standalone) featuring 12 oscillator algorithms, dual filter configurations, and comprehensive modulation.
 
-- 📻 **[Dexed](https://github.com/asb2m10/dexed)** [![GitHub stars](https://img.shields.io/github/stars/asb2m10/dexed?style=social&color=white)](https://github.com/asb2m10/dexed/stargazers)  
+- 📻 **[Dexed](https://github.com/asb2m10/dexed)** [![GitHub_Stars](https://img.shields.io/github/stars/asb2m10/dexed?style=social&color=white)](https://github.com/asb2m10/dexed/stargazers)  
   Multi-platform, multi-format 6-operator FM synthesizer plugin modeled directly on the Yamaha DX7, supporting full SysEx cartridge reading and writing.
 
-- 🎚️ **[Cardinal](https://github.com/DISTRHO/Cardinal)** [![GitHub stars](https://img.shields.io/github/stars/DISTRHO/Cardinal?style=social&color=white)](https://github.com/DISTRHO/Cardinal/stargazers)  
+- 🎚️ **[Cardinal](https://github.com/DISTRHO/Cardinal)** [![GitHub_Stars](https://img.shields.io/github/stars/DISTRHO/Cardinal?style=social&color=white)](https://github.com/DISTRHO/Cardinal/stargazers)  
   Self-contained open-source virtual modular synthesizer plugin (VST3/CLAP/LV2) packaging over 1,000 modules with zero external server dependencies.
 
-- 🪐 **[Helm](https://github.com/mtytel/helm)** [![GitHub stars](https://img.shields.io/github/stars/mtytel/helm?style=social&color=white)](https://github.com/mtytel/helm/stargazers)  
+- 🪐 **[Helm](https://github.com/mtytel/helm)** [![GitHub_Stars](https://img.shields.io/github/stars/mtytel/helm?style=social&color=white)](https://github.com/mtytel/helm/stargazers)  
   Cross-platform polyphonic synthesizer with real-time visual animated modulation, 32-step sequencer, and dual oscillators.
 
-- 🔮 **[Vital](https://github.com/mtytel/vital)** [![GitHub stars](https://img.shields.io/github/stars/mtytel/vital?style=social&color=white)](https://github.com/mtytel/vital/stargazers)  
+- 🔮 **[Vital](https://github.com/mtytel/vital)** [![GitHub_Stars](https://img.shields.io/github/stars/mtytel/vital?style=social&color=white)](https://github.com/mtytel/vital/stargazers)  
   GPLv3 open-source spectral warping wavetable synthesizer featuring animated visual feedback, custom wavetable editing, and a 3D spectrogram.
 
-- 📊 **[Pure Data](https://github.com/pure-data/pure-data)** [![GitHub stars](https://img.shields.io/github/stars/pure-data/pure-data?style=social&color=white)](https://github.com/pure-data/pure-data/stargazers)  
+- 📊 **[Pure Data](https://github.com/pure-data/pure-data)** [![GitHub_Stars](https://img.shields.io/github/stars/pure-data/pure-data?style=social&color=white)](https://github.com/pure-data/pure-data/stargazers)  
   Foundational open-source visual real-time computer music environment and dataflow language for audio synthesis and algorithmic composition.
 
-- 📜 **[Csound](https://github.com/csound/csound)** [![GitHub stars](https://img.shields.io/github/csound/csound?style=social&color=white)](https://github.com/csound/csound/stargazers)  
+- 📜 **[Csound](https://github.com/csound/csound)** [![GitHub_Stars](https://img.shields.io/github/csound/csound?style=social&color=white)](https://github.com/csound/csound/stargazers)  
   Battle-tested programmable audio synthesis and signal processing system providing hundreds of unit generators for rigorous acoustic design.
 
-- 🎧 **[Airwindows](https://github.com/airwindows/airwindows)** [![GitHub stars](https://img.shields.io/github/airwindows/airwindows?style=social&color=white)](https://github.com/airwindows/airwindows/stargazers)  
+- 🎧 **[Airwindows](https://github.com/airwindows/airwindows)** [![GitHub_Stars](https://img.shields.io/github/airwindows/airwindows?style=social&color=white)](https://github.com/airwindows/airwindows/stargazers)  
   Extensive collection of open-source MIT-licensed audio DSP effects, saturation algorithms, and analog-style sound processors.
 
-- 🎛️ **[ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx)** [![GitHub stars](https://img.shields.io/github/zynaddsubfx/zynaddsubfx?style=social&color=white)](https://github.com/zynaddsubfx/zynaddsubfx/stargazers)  
+- 🎛️ **[ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx)** [![GitHub_Stars](https://img.shields.io/github/zynaddsubfx/zynaddsubfx?style=social&color=white)](https://github.com/zynaddsubfx/zynaddsubfx/stargazers)  
   Real-time software synthesizer combining additive (`ADsynth`), subtractive (`SUBsynth`), and Fourier pad (`PADsynth`) synthesis architectures.
 
-- ⚡ **[Odin 2](https://github.com/TheWaveWarden/odin2)** [![GitHub stars](https://img.shields.io/github/TheWaveWarden/odin2?style=social&color=white)](https://github.com/TheWaveWarden/odin2/stargazers)  
+- ⚡ **[Odin 2](https://github.com/TheWaveWarden/odin2)** [![GitHub_Stars](https://img.shields.io/github/TheWaveWarden/odin2?style=social&color=white)](https://github.com/TheWaveWarden/odin2/stargazers)  
   24-voice polyphonic open-source synthesizer blending analog-modeled oscillators, wavetables, FM, and chiptune generators with vintage filter emulations.
 
-- 📦 **[Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/shortcircuit-xt?style=social&color=white)](https://github.com/surge-synthesizer/shortcircuit-xt/stargazers)  
+- 📦 **[Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt)** [![GitHub_Stars](https://img.shields.io/github/surge-synthesizer/shortcircuit-xt?style=social&color=white)](https://github.com/surge-synthesizer/shortcircuit-xt/stargazers)  
   Open-source multi-sampler and sample-manipulation synthesizer engine developed by the Surge Synth Team.
 
-- 🎲 **[Stochas](https://github.com/surge-synthesizer/stochas)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/stochas?style=social&color=white)](https://github.com/surge-synthesizer/stochas/stargazers)  
+- 🎲 **[Stochas](https://github.com/surge-synthesizer/stochas)** [![GitHub_Stars](https://img.shields.io/github/surge-synthesizer/stochas?style=social&color=white)](https://github.com/surge-synthesizer/stochas/stargazers)  
   Open-source polyrhythmic stochastic step sequencer plugin for algorithmic pattern design and expressive synth modulation.
 
-- 👾 **[Klystrack](https://github.com/kometbomb/klystrack)** [![GitHub stars](https://img.shields.io/github/kometbomb/klystrack?style=social&color=white)](https://github.com/kometbomb/klystrack/stargazers)  
+- 👾 **[Klystrack](https://github.com/kometbomb/klystrack)** [![GitHub_Stars](https://img.shields.io/github/kometbomb/klystrack?style=social&color=white)](https://github.com/kometbomb/klystrack/stargazers)  
   Chiptune tracker and synth workstation featuring an integrated subtractive synthesizer engine with FM, noise, and ring modulation.
 
-- 🧪 **[Soma](https://github.com/kai-jungsthoefel/soma)** [![GitHub stars](https://img.shields.io/github/kai-jungsthoefel/soma?style=social&color=white)](https://github.com/kai-jungsthoefel/soma/stargazers)  
+- 🧪 **[Soma](https://github.com/kai-jungsthoefel/soma)** [![GitHub_Stars](https://img.shields.io/github/kai-jungsthoefel/soma?style=social&color=white)](https://github.com/kai-jungsthoefel/soma/stargazers)  
   Open-source experimental audio and parametric sound design workstation tailored for generative synthesis and AI-assisted modulation.
 
-- 🧩 **[Audible Instruments](https://github.com/VCVRack/AudibleInstruments)** [![GitHub stars](https://img.shields.io/github/VCVRack/AudibleInstruments?style=social&color=white)](https://github.com/VCVRack/AudibleInstruments/stargazers)  
+- 🧩 **[Audible Instruments](https://github.com/VCVRack/AudibleInstruments)** [![GitHub_Stars](https://img.shields.io/github/VCVRack/AudibleInstruments?style=social&color=white)](https://github.com/VCVRack/AudibleInstruments/stargazers)  
   Official open-source VCV Rack modular ports of Mutable Instruments hardware Eurorack modules (Braids, Clouds, Rings, Plaits).
 
-- 🔊 **[Monique](https://github.com/surge-synthesizer/monique-monosynth)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/monique-monosynth?style=social&color=white)](https://github.com/surge-synthesizer/monique-monosynth/stargazers)  
+- 🔊 **[Monique](https://github.com/surge-synthesizer/monique-monosynth)** [![GitHub_Stars](https://img.shields.io/github/surge-synthesizer/monique-monosynth?style=social&color=white)](https://github.com/surge-synthesizer/monique-monosynth/stargazers)  
   Open-source aggressive, morphing bass and lead monosynth maintained by the Surge Synth Team.
 
-- 🐟 **[Tunefish 4](https://github.com/paynebc/tunefish)** [![GitHub stars](https://img.shields.io/github/paynebc/tunefish?style=social&color=white)](https://github.com/paynebc/tunefish/stargazers)  
+- 🐟 **[Tunefish 4](https://github.com/paynebc/tunefish)** [![GitHub_Stars](https://img.shields.io/github/paynebc/tunefish?style=social&color=white)](https://github.com/paynebc/tunefish/stargazers)  
   Ultra-lightweight open-source virtual analog synthesizer based on an additive wavetable generator originally developed for 64k demoscene productions.
 
-- 🎹 **[OB-Xd](https://github.com/reales/OB-Xd)** [![GitHub stars](https://img.shields.io/github/reales/OB-Xd?style=social&color=white)](https://github.com/reales/OB-Xd/stargazers)  
+- 🎹 **[OB-Xd](https://github.com/reales/OB-Xd)** [![GitHub_Stars](https://img.shields.io/github/reales/OB-Xd?style=social&color=white)](https://github.com/reales/OB-Xd/stargazers)  
   Virtual-analog synthesizer based on the Oberheim OB-X, delivering continuous filter blending and polyphonic detuning.
 
 ---
@@ -133,22 +133,22 @@ Curated list of open-source synthesizers, Eurorack studios, and sound design ins
 
 For developers creating custom sound design tools, synthesizers, and audio plugins:
 
-- 💻 **[JUCE](https://github.com/juce-framework/JUCE)** [![GitHub stars](https://img.shields.io/github/stars/juce-framework/JUCE?style=social&color=white)](https://github.com/juce-framework/JUCE/stargazers)  
+- 💻 **[JUCE](https://github.com/juce-framework/JUCE)** [![GitHub_Stars](https://img.shields.io/github/stars/juce-framework/JUCE?style=social&color=white)](https://github.com/juce-framework/JUCE/stargazers)  
   Industry-standard cross-platform C++ application framework for desktop and mobile audio software, VST3, AU, CLAP, and LV2 synthesizer plugins.
 
-- 🔊 **[SuperCollider](https://github.com/supercollider/supercollider)** [![GitHub stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers)  
+- 🔊 **[SuperCollider](https://github.com/supercollider/supercollider)** [![GitHub_Stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers)  
   High-performance real-time audio synthesis server (`scsynth`), programming language, and IDE for algorithmic composition and generative sound design.
 
-- ⚙️ **[Faust](https://github.com/grame-cncm/faust)** [![GitHub stars](https://img.shields.io/github/stars/grame-cncm/faust?style=social&color=white)](https://github.com/grame-cncm/faust/stargazers)  
+- ⚙️ **[Faust](https://github.com/grame-cncm/faust)** [![GitHub_Stars](https://img.shields.io/github/stars/grame-cncm/faust?style=social&color=white)](https://github.com/grame-cncm/faust/stargazers)  
   Functional DSP programming language for real-time sound synthesis that compiles directly into C++, Rust, WebAssembly, and VST3 plugins.
 
-- 🧪 **[Elementary Audio](https://github.com/elemaudio/elementary)** [![GitHub stars](https://img.shields.io/github/elemaudio/elementary?style=social&color=white)](https://github.com/elemaudio/elementary/stargazers)  
+- 🧪 **[Elementary Audio](https://github.com/elemaudio/elementary)** [![GitHub_Stars](https://img.shields.io/github/elemaudio/elementary?style=social&color=white)](https://github.com/elemaudio/elementary/stargazers)  
   Functional JavaScript/TypeScript audio DSP library and runtime for developing high-performance web synthesizers and native audio applications.
 
-- 🏗️ **[Pamplejuce](https://github.com/sudara/pamplejuce)** [![GitHub stars](https://img.shields.io/github/sudara/pamplejuce?style=social&color=white)](https://github.com/sudara/pamplejuce/stargazers)  
+- 🏗️ **[Pamplejuce](https://github.com/sudara/pamplejuce)** [![GitHub_Stars](https://img.shields.io/github/sudara/pamplejuce?style=social&color=white)](https://github.com/sudara/pamplejuce/stargazers)  
   Modern C++ audio plugin CI/CD template powering JUCE 8, Catch2, Pluginval, and automated multi-platform builds for synthesizer developers.
 
-- 🎼 **[Surge Tuning Library](https://github.com/surge-synthesizer/tuning-library)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/tuning-library?style=social&color=white)](https://github.com/surge-synthesizer/tuning-library/stargazers)  
+- 🎼 **[Surge Tuning Library](https://github.com/surge-synthesizer/tuning-library)** [![GitHub_Stars](https://img.shields.io/github/surge-synthesizer/tuning-library?style=social&color=white)](https://github.com/surge-synthesizer/tuning-library/stargazers)  
   Header-only C++ library for microtonal tuning, Scala (scl/kbm) parsing, and MTS-ESP frequency evaluation used in modern synth development.
 
 ---
