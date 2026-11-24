@@ -1,41 +1,50 @@
-# Awesome-Creative-Audio-Sound-Design-Synthesizer
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Creative Audio Sound Design Synthesizer" width="100%" />
+</p>
 
-## Top Creative Audio & Sound Design Synthesizer Ecosystem
+# 🎹 Awesome Creative Audio & Sound Design Synthesizers 🎛️
 
-**Curated List of Commercial/Hosted Platforms & Open-Source GitHub Projects**  
-*Focused on Wavetable/FM/Analog Synthesizers, Modular Sound Design Environments, DSP Audio Engines & Open-Source VST3/CLAP Instruments*  
-**Last updated: November 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer?style=social" alt="GitHub Repo Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer?style=social" alt="GitHub Repo Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer?color=blue" alt="Open Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer?color=brightgreen" alt="Open PRs" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS/hosted & commercial platforms** and **open-source projects** for **Creative Audio & Sound Design Synthesizers**. These tools synthesize, modulate, sculpt, and design electronic sounds, wavetables, FM patches, modular Eurorack patches, and procedural sound effects across VST3/CLAP/LV2 plugins, standalone audio engines, and browser-based sound studios.
-
-**Examples** include Vital Synth, Serum by Xfer Records, Massive by Native Instruments, Pigments by Arturia, Sylenth1, Diva by u-he, Phase Plant, Omnisphere, Spire, FM8, and soma.
-
-**Open-source emphasis**: This section features active projects for flagship open-source wavetable, subtractive, and FM synthesizers (`Vital`, `Surge XT`, `Odin 2`, `Dexed`, `Helm`, `ZynAddSubFX`), modular Eurorack environments (`VCV Rack`, `Cardinal`), audio DSP frameworks (`JUCE`, `Faust`, `SuperCollider`, `Pure Data`), and programmable sound-design tools.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Support & Share](#support--share)
-- [Disclaimer](#disclaimer)
+> 🚀 **The definitive curated directory of commercial hosted platforms and open-source software synthesizers, Eurorack modular studios, audio DSP frameworks, and VST3/CLAP/LV2 instruments for modern sound designers, music producers, and audio DSP developers.**
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global market for creative audio synthesis, sound design software, and audio plugins is estimated at **$1.4 billion to $1.85 billion**, expanding at a 7.2%–9.8% CAGR toward $2.7B+ as desktop and home-studio music production accelerates. The sector exhibits a **moderately fragmented** structure: while established category leaders (Native Instruments/inMusic, Arturia, Splice, Spectrasonics) command high brand equity and broad user distribution, sound designers and producers routinely combine specialized boutique instruments (Xfer Records, u-he, Kilohearts) and vibrant open-source engines (Surge XT, Vital, VCV Rack), preventing a single-winner monopoly.
+- [🌟 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS & Commercial Hosted Platforms](#-saas--commercial-hosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Audio DSP Frameworks & Development Kits](#-audio-dsp-frameworks--development-kits)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#-disclaimer)
 
 ---
 
-## SaaS/Hosted Platforms
+## 🌟 Sector Overview & Market Dynamics
 
-| Platform / Synthesizer | Pricing | Free Tier / Trial Limits | Company Scale (Revenue / Valuation) | Description |
+The global market for creative audio synthesis, sound design software, and audio plugins is valued between **$1.4 billion and $1.85 billion**, expanding at a healthy **7.2%–9.8% CAGR toward $2.7B+** as in-the-box electronic music production, procedural game audio, and home studio workflows rapidly proliferate.
+
+The sector demonstrates a **moderately fragmented** competitive dynamic:
+- **Commercial Frontrunners**: Established leaders such as **Arturia**, **Splice**, **Spectrasonics**, and **Native Instruments (under inMusic Brands)** command significant brand loyalty, extensive distribution channels, and comprehensive sound libraries.
+- **Boutique Innovators & Open-Source Movement**: Producers and sound designers routinely maintain hybrid toolsets, chaining high-end boutique synthesizers (**Xfer Serum**, **u-he Diva**, **Kilohearts Phase Plant**) alongside powerful zero-cost, open-source software instruments (**Surge XT**, **Vital**, **VCV Rack**, **Cardinal**). This prevents single-vendor monopolization and fuels ongoing digital signal processing (DSP) innovation.
+
+---
+
+## 💼 SaaS & Commercial Hosted Platforms
+
+| 🏷️ Platform / Synthesizer | 💳 Pricing | 🎁 Free Tier / Trial Limits | 📊 Company Scale (Revenue / Valuation) | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Splice Sounds & Plugins](https://splice.com)** | Starting at $12.99/mo (Sounds+ plan) or rent-to-own installments from $9.99/mo | 14-day free trial on Sounds subscription (includes sample browsing credits; cancel anytime); rent-to-own plugins offer 3–14 day free trials before first installment | Valuation: ~$500M (Series D funding led by Goldman Sachs; >$100M annual revenue) | Cloud sound platform, cloud preset ecosystem, and rent-to-own distribution hub for flagship synths. |
 | **[Pigments (Arturia)](https://arturia.com)** | Starting at $99.00 (promotional) / $199.00 regular perpetual license | Permanently free edition available via *Pigments Play* (capped at 100 presets with simplified Play View); full Pigments demo offers 20-minute sessions with save/export disabled | Revenue: ~$100M–$250M annual revenue (backed by EMZ Partners buyout/refinancing; 1M+ registered users) | Polychrome software synth combining wavetable, virtual analog, harmonic, granular, and modal engines. |
@@ -51,123 +60,143 @@ The global market for creative audio synthesis, sound design software, and audio
 
 ---
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
-Sorted in descending order by GitHub star count:
+Curated list of open-source synthesizers, Eurorack studios, and sound design instruments sorted in descending order by GitHub star count:
 
-- **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
-  A Web Audio framework for making interactive music, generative synths, and web sound design in the browser.
+- 🌐 **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
+  A Web Audio framework for making interactive music, generative synths, and web-native sound design in the browser.
 
-- **[JUCE](https://github.com/juce-framework/JUCE)** [![GitHub stars](https://img.shields.io/github/stars/juce-framework/JUCE?style=social&color=white)](https://github.com/juce-framework/JUCE/stargazers)  
-  Industry-standard cross-platform C++ application framework for desktop and mobile audio software, including VST3, AU, CLAP, and LV2 synthesizer plugins.
-
-- **[SuperCollider](https://github.com/supercollider/supercollider)** [![GitHub stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers)  
-  High-performance real-time audio synthesis server (`scsynth`), programming language, and IDE for algorithmic composition and generative sound design.
-
-- **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
+- 🎛️ **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
   Open-source software modular synthesizer and live-patching sound design DAW built with visual patch cables and node-based signal routing.
 
-- **[VCV Rack](https://github.com/VCVRack/Rack)** [![GitHub stars](https://img.shields.io/github/stars/VCVRack/Rack?style=social&color=white)](https://github.com/VCVRack/Rack/stargazers)  
+- 🔌 **[VCV Rack](https://github.com/VCVRack/Rack)** [![GitHub stars](https://img.shields.io/github/stars/VCVRack/Rack?style=social&color=white)](https://github.com/VCVRack/Rack/stargazers)  
   The virtual Eurorack studio environment enabling open-source hardware-accurate modular synthesis, CV routing, and custom module development.
 
-- **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
+- 🌊 **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
   Flagship open-source hybrid synthesizer (VST3/CLAP/LV2/Standalone) featuring 12 oscillator algorithms, dual filter configurations, and comprehensive modulation.
 
-- **[Dexed](https://github.com/asb2m10/dexed)** [![GitHub stars](https://img.shields.io/github/stars/asb2m10/dexed?style=social&color=white)](https://github.com/asb2m10/dexed/stargazers)  
+- 📻 **[Dexed](https://github.com/asb2m10/dexed)** [![GitHub stars](https://img.shields.io/github/stars/asb2m10/dexed?style=social&color=white)](https://github.com/asb2m10/dexed/stargazers)  
   Multi-platform, multi-format 6-operator FM synthesizer plugin modeled directly on the Yamaha DX7, supporting full SysEx cartridge reading and writing.
 
-- **[Cardinal](https://github.com/DISTRHO/Cardinal)** [![GitHub stars](https://img.shields.io/github/stars/DISTRHO/Cardinal?style=social&color=white)](https://github.com/DISTRHO/Cardinal/stargazers)  
+- 🎚️ **[Cardinal](https://github.com/DISTRHO/Cardinal)** [![GitHub stars](https://img.shields.io/github/stars/DISTRHO/Cardinal?style=social&color=white)](https://github.com/DISTRHO/Cardinal/stargazers)  
   Self-contained open-source virtual modular synthesizer plugin (VST3/CLAP/LV2) packaging over 1,000 modules with zero external server dependencies.
 
-- **[Faust](https://github.com/grame-cncm/faust)** [![GitHub stars](https://img.shields.io/github/stars/grame-cncm/faust?style=social&color=white)](https://github.com/grame-cncm/faust/stargazers)  
-  Functional DSP programming language for real-time sound synthesis and audio signal processing that compiles directly into C++, Rust, WebAssembly, and VST3 plugins.
-
-- **[Helm](https://github.com/mtytel/helm)** [![GitHub stars](https://img.shields.io/github/stars/mtytel/helm?style=social&color=white)](https://github.com/mtytel/helm/stargazers)  
+- 🪐 **[Helm](https://github.com/mtytel/helm)** [![GitHub stars](https://img.shields.io/github/stars/mtytel/helm?style=social&color=white)](https://github.com/mtytel/helm/stargazers)  
   Cross-platform polyphonic synthesizer with real-time visual animated modulation, 32-step sequencer, and dual oscillators.
 
-- **[Vital](https://github.com/mtytel/vital)** [![GitHub stars](https://img.shields.io/github/stars/mtytel/vital?style=social&color=white)](https://github.com/mtytel/vital/stargazers)  
+- 🔮 **[Vital](https://github.com/mtytel/vital)** [![GitHub stars](https://img.shields.io/github/stars/mtytel/vital?style=social&color=white)](https://github.com/mtytel/vital/stargazers)  
   GPLv3 open-source spectral warping wavetable synthesizer featuring animated visual feedback, custom wavetable editing, and a 3D spectrogram.
 
-- **[Pure Data](https://github.com/pure-data/pure-data)** [![GitHub stars](https://img.shields.io/github/stars/pure-data/pure-data?style=social&color=white)](https://github.com/pure-data/pure-data/stargazers)  
+- 📊 **[Pure Data](https://github.com/pure-data/pure-data)** [![GitHub stars](https://img.shields.io/github/stars/pure-data/pure-data?style=social&color=white)](https://github.com/pure-data/pure-data/stargazers)  
   Foundational open-source visual real-time computer music environment and dataflow language for audio synthesis and algorithmic composition.
 
-- **[Csound](https://github.com/csound/csound)** [![GitHub stars](https://img.shields.io/github/csound/csound?style=social&color=white)](https://github.com/csound/csound/stargazers)  
+- 📜 **[Csound](https://github.com/csound/csound)** [![GitHub stars](https://img.shields.io/github/csound/csound?style=social&color=white)](https://github.com/csound/csound/stargazers)  
   Battle-tested programmable audio synthesis and signal processing system providing hundreds of unit generators for rigorous acoustic design.
 
-- **[Airwindows](https://github.com/airwindows/airwindows)** [![GitHub stars](https://img.shields.io/github/airwindows/airwindows?style=social&color=white)](https://github.com/airwindows/airwindows/stargazers)  
+- 🎧 **[Airwindows](https://github.com/airwindows/airwindows)** [![GitHub stars](https://img.shields.io/github/airwindows/airwindows?style=social&color=white)](https://github.com/airwindows/airwindows/stargazers)  
   Extensive collection of open-source MIT-licensed audio DSP effects, saturation algorithms, and analog-style sound processors.
 
-- **[ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx)** [![GitHub stars](https://img.shields.io/github/zynaddsubfx/zynaddsubfx?style=social&color=white)](https://github.com/zynaddsubfx/zynaddsubfx/stargazers)  
+- 🎛️ **[ZynAddSubFX](https://github.com/zynaddsubfx/zynaddsubfx)** [![GitHub stars](https://img.shields.io/github/zynaddsubfx/zynaddsubfx?style=social&color=white)](https://github.com/zynaddsubfx/zynaddsubfx/stargazers)  
   Real-time software synthesizer combining additive (`ADsynth`), subtractive (`SUBsynth`), and Fourier pad (`PADsynth`) synthesis architectures.
 
-- **[Odin 2](https://github.com/TheWaveWarden/odin2)** [![GitHub stars](https://img.shields.io/github/TheWaveWarden/odin2?style=social&color=white)](https://github.com/TheWaveWarden/odin2/stargazers)  
+- ⚡ **[Odin 2](https://github.com/TheWaveWarden/odin2)** [![GitHub stars](https://img.shields.io/github/TheWaveWarden/odin2?style=social&color=white)](https://github.com/TheWaveWarden/odin2/stargazers)  
   24-voice polyphonic open-source synthesizer blending analog-modeled oscillators, wavetables, FM, and chiptune generators with vintage filter emulations.
 
-- **[Pamplejuce](https://github.com/sudara/pamplejuce)** [![GitHub stars](https://img.shields.io/github/sudara/pamplejuce?style=social&color=white)](https://github.com/sudara/pamplejuce/stargazers)  
-  Modern C++ audio plugin CI/CD template powering JUCE 8, Catch2, Pluginval, and automated multi-platform builds for synthesizer developers.
-
-- **[Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/shortcircuit-xt?style=social&color=white)](https://github.com/surge-synthesizer/shortcircuit-xt/stargazers)  
+- 📦 **[Shortcircuit XT](https://github.com/surge-synthesizer/shortcircuit-xt)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/shortcircuit-xt?style=social&color=white)](https://github.com/surge-synthesizer/shortcircuit-xt/stargazers)  
   Open-source multi-sampler and sample-manipulation synthesizer engine developed by the Surge Synth Team.
 
-- **[Stochas](https://github.com/surge-synthesizer/stochas)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/stochas?style=social&color=white)](https://github.com/surge-synthesizer/stochas/stargazers)  
+- 🎲 **[Stochas](https://github.com/surge-synthesizer/stochas)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/stochas?style=social&color=white)](https://github.com/surge-synthesizer/stochas/stargazers)  
   Open-source polyrhythmic stochastic step sequencer plugin for algorithmic pattern design and expressive synth modulation.
 
-- **[Klystrack](https://github.com/kometbomb/klystrack)** [![GitHub stars](https://img.shields.io/github/kometbomb/klystrack?style=social&color=white)](https://github.com/kometbomb/klystrack/stargazers)  
+- 👾 **[Klystrack](https://github.com/kometbomb/klystrack)** [![GitHub stars](https://img.shields.io/github/kometbomb/klystrack?style=social&color=white)](https://github.com/kometbomb/klystrack/stargazers)  
   Chiptune tracker and synth workstation featuring an integrated subtractive synthesizer engine with FM, noise, and ring modulation.
 
-- **[Soma](https://github.com/kai-jungsthoefel/soma)** [![GitHub stars](https://img.shields.io/github/kai-jungsthoefel/soma?style=social&color=white)](https://github.com/kai-jungsthoefel/soma/stargazers)  
+- 🧪 **[Soma](https://github.com/kai-jungsthoefel/soma)** [![GitHub stars](https://img.shields.io/github/kai-jungsthoefel/soma?style=social&color=white)](https://github.com/kai-jungsthoefel/soma/stargazers)  
   Open-source experimental audio and parametric sound design workstation tailored for generative synthesis and AI-assisted modulation.
 
-- **[Elementary Audio](https://github.com/elemaudio/elementary)** [![GitHub stars](https://img.shields.io/github/elemaudio/elementary?style=social&color=white)](https://github.com/elemaudio/elementary/stargazers)  
-  Functional JavaScript/TypeScript audio DSP library and runtime for developing high-performance web synthesizers and native audio applications.
-
-- **[Audible Instruments](https://github.com/VCVRack/AudibleInstruments)** [![GitHub stars](https://img.shields.io/github/VCVRack/AudibleInstruments?style=social&color=white)](https://github.com/VCVRack/AudibleInstruments/stargazers)  
+- 🧩 **[Audible Instruments](https://github.com/VCVRack/AudibleInstruments)** [![GitHub stars](https://img.shields.io/github/VCVRack/AudibleInstruments?style=social&color=white)](https://github.com/VCVRack/AudibleInstruments/stargazers)  
   Official open-source VCV Rack modular ports of Mutable Instruments hardware Eurorack modules (Braids, Clouds, Rings, Plaits).
 
-- **[Monique](https://github.com/surge-synthesizer/monique-monosynth)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/monique-monosynth?style=social&color=white)](https://github.com/surge-synthesizer/monique-monosynth/stargazers)  
+- 🔊 **[Monique](https://github.com/surge-synthesizer/monique-monosynth)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/monique-monosynth?style=social&color=white)](https://github.com/surge-synthesizer/monique-monosynth/stargazers)  
   Open-source aggressive, morphing bass and lead monosynth maintained by the Surge Synth Team.
 
-- **[Tunefish 4](https://github.com/paynebc/tunefish)** [![GitHub stars](https://img.shields.io/github/paynebc/tunefish?style=social&color=white)](https://github.com/paynebc/tunefish/stargazers)  
+- 🐟 **[Tunefish 4](https://github.com/paynebc/tunefish)** [![GitHub stars](https://img.shields.io/github/paynebc/tunefish?style=social&color=white)](https://github.com/paynebc/tunefish/stargazers)  
   Ultra-lightweight open-source virtual analog synthesizer based on an additive wavetable generator originally developed for 64k demoscene productions.
 
-- **[OB-Xd](https://github.com/reales/OB-Xd)** [![GitHub stars](https://img.shields.io/github/reales/OB-Xd?style=social&color=white)](https://github.com/reales/OB-Xd/stargazers)  
+- 🎹 **[OB-Xd](https://github.com/reales/OB-Xd)** [![GitHub stars](https://img.shields.io/github/reales/OB-Xd?style=social&color=white)](https://github.com/reales/OB-Xd/stargazers)  
   Virtual-analog synthesizer based on the Oberheim OB-X, delivering continuous filter blending and polyphonic detuning.
 
-- **[Surge Tuning Library](https://github.com/surge-synthesizer/tuning-library)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/tuning-library?style=social&color=white)](https://github.com/surge-synthesizer/tuning-library/stargazers)  
+---
+
+## 🛠️ Audio DSP Frameworks & Development Kits
+
+For developers creating custom sound design tools, synthesizers, and audio plugins:
+
+- 💻 **[JUCE](https://github.com/juce-framework/JUCE)** [![GitHub stars](https://img.shields.io/github/stars/juce-framework/JUCE?style=social&color=white)](https://github.com/juce-framework/JUCE/stargazers)  
+  Industry-standard cross-platform C++ application framework for desktop and mobile audio software, VST3, AU, CLAP, and LV2 synthesizer plugins.
+
+- 🔊 **[SuperCollider](https://github.com/supercollider/supercollider)** [![GitHub stars](https://img.shields.io/github/stars/supercollider/supercollider?style=social&color=white)](https://github.com/supercollider/supercollider/stargazers)  
+  High-performance real-time audio synthesis server (`scsynth`), programming language, and IDE for algorithmic composition and generative sound design.
+
+- ⚙️ **[Faust](https://github.com/grame-cncm/faust)** [![GitHub stars](https://img.shields.io/github/stars/grame-cncm/faust?style=social&color=white)](https://github.com/grame-cncm/faust/stargazers)  
+  Functional DSP programming language for real-time sound synthesis that compiles directly into C++, Rust, WebAssembly, and VST3 plugins.
+
+- 🧪 **[Elementary Audio](https://github.com/elemaudio/elementary)** [![GitHub stars](https://img.shields.io/github/elemaudio/elementary?style=social&color=white)](https://github.com/elemaudio/elementary/stargazers)  
+  Functional JavaScript/TypeScript audio DSP library and runtime for developing high-performance web synthesizers and native audio applications.
+
+- 🏗️ **[Pamplejuce](https://github.com/sudara/pamplejuce)** [![GitHub stars](https://img.shields.io/github/sudara/pamplejuce?style=social&color=white)](https://github.com/sudara/pamplejuce/stargazers)  
+  Modern C++ audio plugin CI/CD template powering JUCE 8, Catch2, Pluginval, and automated multi-platform builds for synthesizer developers.
+
+- 🎼 **[Surge Tuning Library](https://github.com/surge-synthesizer/tuning-library)** [![GitHub stars](https://img.shields.io/github/surge-synthesizer/tuning-library?style=social&color=white)](https://github.com/surge-synthesizer/tuning-library/stargazers)  
   Header-only C++ library for microtonal tuning, Scala (scl/kbm) parsing, and MTS-ESP frequency evaluation used in modern synth development.
 
 ---
 
-## How to Contribute
+## 📈 Star History
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Creative-Audio-Sound-Design-Synthesizer&type=date&legend=top-left)
 
 ---
 
-## Support & Share
+## 🤝 How to Contribute
 
-If you find this curated list helpful, consider supporting the project:
+Contributions are warmly encouraged! To propose a new software synthesizer, DSP engine, or commercial sound platform:
 
-- ⭐ **Star this repository** to help others discover it.
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com/sponsors/ishandutta2007) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
+1. 🍴 **Fork the repository** on GitHub.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-synthesizer`).
+3. 📝 **Add or edit entries in `README.md`** following the existing format:
+   - Provide the project name and official link.
+   - Include a concise 1–2 sentence description of its synthesis capabilities and plugin formats (VST3, CLAP, AU, LV2).
+   - Specify whether it is SaaS/hosted, commercial, or open-source.
+4. 🚀 **Submit a Pull Request** with a brief summary of why the tool is valuable for sound designers and producers.
 
-[![Sponsor @ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=social)](https://github.com/sponsors/ishandutta2007)
-
----
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Note that `Vital` offers both a GPLv3 open-source source tree and proprietary commercial preset/text-to-wavetable cloud tiers; verify plugin formats (VST3, CLAP, AU, LV2) and licenses before commercial distribution.
-- Always use a brickwall limiter on your master audio bus when experimenting with resonant filters, FM feedback matrices, or modular patching to protect your hearing and studio monitors.
+⭐ *Don't forget to star the repository if you found it useful!*
 
 ---
 
-Made for sound designers, electronic music producers, game audio developers, audio DSP engineers, and open-source contributors.  
-Let's make creative audio synthesis and sound design more open, expressive, and accessible.
+## 💖 Support & Sponsorship
+
+If this curated directory has helped you discover new sound design synthesizers, build modular patches, or develop audio DSP instruments, consider supporting the ongoing maintenance of this project:
+
+- ⭐ **Star this repository** to boost visibility and help other musicians and engineers discover it.
+- 🍴 **Fork & Share** the repo across your networks on X/Twitter, LinkedIn, Discord, and Reddit.
+- ☕ **Buy me a coffee / Sponsor on GitHub Sponsors**:  
+  Support my open-source work directly via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Your sponsorship helps keep these ecosystem lists actively researched, verified, and continuously up to date!
+
+[![Sponsor @ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⚖️ Disclaimer
+
+- This is an independent **community-curated directory** intended for educational and reference purposes. It is not an endorsement or official affiliation with any mentioned companies or trademarks.
+- `Vital` maintains a dual offering: a GPLv3 open-source source tree as well as proprietary commercial preset/cloud tiers. Always review individual software licenses and EULAs before deploying in commercial audio productions or embedding in software plugins.
+- 🔊 **Hearing Safety Warning**: Always insert a brickwall peak limiter on your master audio channel when experimenting with resonant modular filters, self-oscillating delay lines, or experimental FM feedback loops to protect your hearing and studio monitors.
+
+---
+
+<p align="center">
+  <b>Crafted with ❤️ for sound designers, electronic music producers, game audio developers, and audio DSP engineers.</b><br/>
+  <sub>Let's make creative audio synthesis and sound design more open, expressive, and accessible to creators worldwide.</sub>
+</p>
